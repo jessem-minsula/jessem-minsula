@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I'm Jesse Minsula
+
+🎓 Computer Science Student
+
+I'm passionate about technology and enjoy exploring software development, networking, cybersecurity, and artificial intelligence. I use GitHub to document my learning journey, share projects, and collaborate with others.
 
 <!--
 **jessem-minsula/jessem-minsula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
