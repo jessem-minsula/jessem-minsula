@@ -10,7 +10,6 @@ Currently focused on developing projects, strengthening my software engineering 
 
 ## 🚀 Current Focus
 
-* 🔨 Building **SkillLink** – a freelance marketplace platform
 * 🤖 Exploring Artificial Intelligence applications
 * 🌐 Studying Networking and Network Automation
 * 🔐 Learning Cybersecurity and Information Assurance
