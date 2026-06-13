@@ -82,7 +82,7 @@ Collection of networking, automation, and cybersecurity exercises completed duri
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](www.linkedin.com/in/jesse-minsula-2625a52bb)
 
-📧 Email: [your-email@example.com](jesseminsula86@gmail.com)
+📧 Email: [jesseminsula86@gmail.com](jesseminsula86@gmail.com)
 
 ---
 
