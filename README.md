@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jesse Minsula
+# Hi there, I'm Jesse Minsula
 
 ### 🎓 Computer Science Student | 💻 Software Developer | 🌐 Networking & Cybersecurity Enthusiast
 
